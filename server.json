@@ -3,7 +3,7 @@
   "name": "io.github.alexboissAV/artefact-revenue-intelligence",
   "description": "Revenue intelligence MCP: RFM analysis, 14.5-point ICP scoring, pipeline health. HubSpot.",
   "repository": {
-    "url": "https://github.com/alexboissAV/artefact-mcp-server",
+    "url": "https://github.com/artefactventures/artefact-mcp-server",
     "source": "github"
   },
   "version": "0.3.3",

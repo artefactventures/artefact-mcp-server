@@ -61,10 +61,10 @@ dev = [
 
 [project.urls]
 Homepage = "https://artefactventures.com/en/mcp?utm_campaign=always_on-community-demand-mcp-pypi-listing-mcp_server-na-pypi&utm_medium=marketplace&utm_source=pypi.org&utm_content=documentation-package-page-link-en&utm_term=developer-na"
-Documentation = "https://github.com/alexboissAV/artefact-mcp-server#readme"
-Repository = "https://github.com/alexboissAV/artefact-mcp-server"
-Issues = "https://github.com/alexboissAV/artefact-mcp-server/issues"
-Changelog = "https://github.com/alexboissAV/artefact-mcp-server/blob/main/CHANGELOG.md"
+Documentation = "https://github.com/artefactventures/artefact-mcp-server#readme"
+Repository = "https://github.com/artefactventures/artefact-mcp-server"
+Issues = "https://github.com/artefactventures/artefact-mcp-server/issues"
+Changelog = "https://github.com/artefactventures/artefact-mcp-server/blob/main/CHANGELOG.md"
 
 [project.scripts]
 artefact-mcp = "artefact_mcp.server:main"

@@ -8,9 +8,9 @@ Artefact MCP Server is different from generic HubSpot CRUD wrappers because it e
 
 ## Core Tools
 
-- [RFM Analysis](https://github.com/alexboissAV/artefact-mcp-server/blob/main/README.md#run_rfm--rfm-analysis): Scores clients on Recency, Frequency, Monetary value. Segments into 11 categories (Champions through Lost). Extracts ICP patterns from top performers. Supports B2B service, SaaS, and manufacturing presets.
-- [ICP Triangulation Framework™](https://github.com/alexboissAV/artefact-mcp-server/blob/main/README.md#qualify--icp-triangulation-framework): Go beyond demographics. Scores prospects across three dimensions: 🏢 Firmographic Fit (who they are), 🎯 Behavioral Fit (what they're doing), 📈 Growth Signals (where they're heading). Returns 4-tier classification (Ideal/Strong/Moderate/Poor) with engagement strategy.
-- [Pipeline Health Score](https://github.com/alexboissAV/artefact-mcp-server/blob/main/README.md#score_pipeline_health--pipeline-health-score): 0-100 health score analyzing velocity metrics, stage conversion rates, bottleneck identification, and at-risk deal detection.
+- [RFM Analysis](https://github.com/artefactventures/artefact-mcp-server/blob/main/README.md#run_rfm--rfm-analysis): Scores clients on Recency, Frequency, Monetary value. Segments into 11 categories (Champions through Lost). Extracts ICP patterns from top performers. Supports B2B service, SaaS, and manufacturing presets.
+- [ICP Triangulation Framework™](https://github.com/artefactventures/artefact-mcp-server/blob/main/README.md#qualify--icp-triangulation-framework): Go beyond demographics. Scores prospects across three dimensions: 🏢 Firmographic Fit (who they are), 🎯 Behavioral Fit (what they're doing), 📈 Growth Signals (where they're heading). Returns 4-tier classification (Ideal/Strong/Moderate/Poor) with engagement strategy.
+- [Pipeline Health Score](https://github.com/artefactventures/artefact-mcp-server/blob/main/README.md#score_pipeline_health--pipeline-health-score): 0-100 health score analyzing velocity metrics, stage conversion rates, bottleneck identification, and at-risk deal detection.
 
 ## Methodology Resources
 
@@ -23,13 +23,13 @@ Artefact MCP Server is different from generic HubSpot CRUD wrappers because it e
 ## Installation & Setup
 
 - [PyPI Package](https://pypi.org/project/artefact-mcp/): `pip install artefact-mcp`
-- [GitHub Repository](https://github.com/alexboissAV/artefact-mcp-server): Source code and development
+- [GitHub Repository](https://github.com/artefactventures/artefact-mcp-server): Source code and development
 - [Smithery](https://smithery.ai/server/artefact-revenue-intelligence): One-click install
 
 **MCP Configuration:**
 - **Recommended:** Use `python3 -m artefact_mcp` (Python always in PATH)
 - **Alternative:** Use `uvx artefact-mcp` (may require full path: `which uvx`)
-- **Troubleshooting:** See [README Troubleshooting section](https://github.com/alexboissAV/artefact-mcp-server#troubleshooting) if you see "Server disconnected" errors with uvx
+- **Troubleshooting:** See [README Troubleshooting section](https://github.com/artefactventures/artefact-mcp-server#troubleshooting) if you see "Server disconnected" errors with uvx
 
 ## Data Requirements for ICP Triangulation
 
