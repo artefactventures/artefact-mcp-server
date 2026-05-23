@@ -8,7 +8,7 @@
 
 > **The AI-native interface to your Revenue Operating System. Version-controlled GTM intelligence — signals, commits, and closed-loop measurement — accessible to any AI agent.**
 
-A Model Context Protocol (MCP) server that treats your Go-to-Market strategy like code: versioned, diffable, and deployable. Detect pipeline signals, identify scaling constraints, analyze value engines, and draft structured GTM changes — all through AI-native tool calls. Built on the [Artefact Formula](https://artefactventures.com) methodology from real B2B consulting engagements.
+A Model Context Protocol (MCP) server that treats your Go-to-Market strategy like code: versioned, diffable, and deployable. Detect pipeline signals, identify scaling constraints, analyze value engines, and draft structured GTM changes — all through AI-native tool calls. Built on the [Artefact Formula](https://artefactventures.com/en/mcp?utm_campaign=always_on-community-demand-github-readme-mcp-mcp_server-na-github&utm_medium=referral&utm_source=github.com&utm_content=documentation-readme-landing-link-en&utm_term=developer-na) methodology from real B2B consulting engagements.
 
 ## Why Artefact MCP?
 
