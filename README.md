@@ -472,7 +472,7 @@ A: Tool results stay local. The only external calls are to the HubSpot API (with
 ## Development
 
 ```bash
-git clone https://github.com/alexboissAV/artefact-mcp-server.git
+git clone https://github.com/artefactventures/artefact-mcp-server.git
 cd artefact-mcp-server
 pip install -e ".[dev]"
 pytest tests/
@@ -487,7 +487,7 @@ No pandas, numpy, or heavy data libraries. Pure Python scoring logic.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=alexboissAV/artefact-mcp-server&type=Date)](https://star-history.com/#alexboissAV/artefact-mcp-server&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=artefactventures/artefact-mcp-server&type=Date)](https://star-history.com/#artefactventures/artefact-mcp-server&Date)
 
 ## License
 
