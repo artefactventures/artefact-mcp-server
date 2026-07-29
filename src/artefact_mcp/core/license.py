@@ -51,11 +51,6 @@ def validate_license(license_key: Optional[str] = None) -> LicenseInfo:
     if not key:
         return LicenseInfo(valid=True, tier="free")
 
-    # Dev bypass: skip LemonSqueezy validation for local testing.
-    # Key is verified by hash only — the actual key is not stored in source.
-    if _hash_key(key) == "425e17387f7d9311":
-        return LicenseInfo(valid=True, tier="pro", customer_name="Dev Testing")
-
     # Check local cache first
     cached = _read_cache(key)
     if cached:
