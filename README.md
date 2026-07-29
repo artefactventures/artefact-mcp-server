@@ -6,6 +6,16 @@
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
 [![License: BSL-1.1](https://img.shields.io/badge/License-BSL--1.1-orange.svg)](LICENSE)
 
+> [!IMPORTANT]
+> **This repository is archived and is not the source of the published package.**
+>
+> It stopped tracking releases at `0.3.3` (February 2026) while the published package continued to `0.5.1`. Anything here is stale by several minor versions and should not be read as describing current behaviour.
+>
+> - **To install or use the server:** [`artefact-mcp` on PyPI](https://pypi.org/project/artefact-mcp/)
+> - **For the product:** [artefactventures.com/mcp](https://artefactventures.com/en/mcp)
+>
+> A maintained public mirror is planned for the product launch. Until then, treat PyPI as the only current artifact.
+
 > **The AI-native interface to your Revenue Operating System. Version-controlled GTM intelligence — signals, commits, and closed-loop measurement — accessible to any AI agent.**
 
 A Model Context Protocol (MCP) server that treats your Go-to-Market strategy like code: versioned, diffable, and deployable. Detect pipeline signals, identify scaling constraints, analyze value engines, and draft structured GTM changes — all through AI-native tool calls. Built on the [Artefact Formula](https://artefactventures.com/en/mcp?utm_campaign=always_on-community-demand-github-readme-mcp-mcp_server-na-github&utm_medium=referral&utm_source=github.com&utm_content=documentation-readme-landing-link-en&utm_term=developer-na) methodology from real B2B consulting engagements.
